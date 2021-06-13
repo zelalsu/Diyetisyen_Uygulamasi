@@ -1,0 +1,88 @@
+C:\Users\ASUS\source\repos\DiyetisyenUygulamasi\obj\Debug\DiyetisyenUygulamasi.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\DiyetisyenUygulamasi\obj\Debug\DiyetisyenUygulamasi.GirisFrm.resources
+C:\Users\ASUS\source\repos\DiyetisyenUygulamasi\obj\Debug\DiyetisyenUygulamasi.Properties.Resources.resources
+C:\Users\ASUS\source\repos\DiyetisyenUygulamasi\obj\Debug\DiyetisyenUygulamasi.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\DiyetisyenUygulamasi\obj\Debug\DiyetisyenUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\DiyetisyenUygulamasi\bin\Debug\DiyetisyenUygulamasi.exe.config
+C:\Users\ASUS\source\repos\DiyetisyenUygulamasi\bin\Debug\DiyetisyenUygulamasi.exe
+C:\Users\ASUS\source\repos\DiyetisyenUygulamasi\bin\Debug\DiyetisyenUygulamasi.pdb
+C:\Users\ASUS\source\repos\DiyetisyenUygulamasi\obj\Debug\DiyetisyenUygulamasi.exe
+C:\Users\ASUS\source\repos\DiyetisyenUygulamasi\obj\Debug\DiyetisyenUygulamasi.pdb
+C:\Users\ASUS\source\repos\DiyetisyenUygulamasi\obj\Debug\DiyetisyenUygulamasi.Forms.AdminFrm.resources
+C:\Users\ASUS\source\repos\DiyetisyenUygulamasi\obj\Debug\DiyetisyenUygulamasi.Forms.HastalarFrm.resources
+C:\Users\emret\Desktop\ders\2. sınıf 2.dönem\yazılım mimarisi ve tasarımı\DiyetisyenUygulamasi\obj\Debug\DiyetisyenUygulamasi.csprojAssemblyReference.cache
+C:\Users\emret\Desktop\ders\2. sınıf 2.dönem\yazılım mimarisi ve tasarımı\DiyetisyenUygulamasi\obj\Debug\DiyetisyenUygulamasi.Forms.AdminFrm.resources
+C:\Users\emret\Desktop\ders\2. sınıf 2.dönem\yazılım mimarisi ve tasarımı\DiyetisyenUygulamasi\obj\Debug\DiyetisyenUygulamasi.GirisFrm.resources
+C:\Users\emret\Desktop\ders\2. sınıf 2.dönem\yazılım mimarisi ve tasarımı\DiyetisyenUygulamasi\obj\Debug\DiyetisyenUygulamasi.Forms.HastalarFrm.resources
+C:\Users\emret\Desktop\ders\2. sınıf 2.dönem\yazılım mimarisi ve tasarımı\DiyetisyenUygulamasi\obj\Debug\DiyetisyenUygulamasi.Properties.Resources.resources
+C:\Users\emret\Desktop\ders\2. sınıf 2.dönem\yazılım mimarisi ve tasarımı\DiyetisyenUygulamasi\obj\Debug\DiyetisyenUygulamasi.csproj.GenerateResource.cache
+C:\Users\emret\Desktop\ders\2. sınıf 2.dönem\yazılım mimarisi ve tasarımı\DiyetisyenUygulamasi\obj\Debug\DiyetisyenUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\emret\Desktop\ders\2. sınıf 2.dönem\yazılım mimarisi ve tasarımı\DiyetisyenUygulamasi\obj\Debug\DiyetisyenUygulamasi.exe
+C:\Users\emret\Desktop\ders\2. sınıf 2.dönem\yazılım mimarisi ve tasarımı\DiyetisyenUygulamasi\obj\Debug\DiyetisyenUygulamasi.pdb
+C:\Users\emret\Desktop\ders\2. sınıf 2.dönem\yazılım mimarisi ve tasarımı\DiyetisyenUygulamasi\bin\Debug\DiyetisyenUygulamasi.exe.config
+C:\Users\emret\Desktop\ders\2. sınıf 2.dönem\yazılım mimarisi ve tasarımı\DiyetisyenUygulamasi\bin\Debug\DiyetisyenUygulamasi.exe
+C:\Users\emret\Desktop\ders\2. sınıf 2.dönem\yazılım mimarisi ve tasarımı\DiyetisyenUygulamasi\bin\Debug\DiyetisyenUygulamasi.pdb
+C:\Users\ASUS\Downloads\DİyetistenEmre\DiyetisyenUygulamasi\bin\Debug\DiyetisyenUygulamasi.exe.config
+C:\Users\ASUS\Downloads\DİyetistenEmre\DiyetisyenUygulamasi\bin\Debug\DiyetisyenUygulamasi.exe
+C:\Users\ASUS\Downloads\DİyetistenEmre\DiyetisyenUygulamasi\bin\Debug\DiyetisyenUygulamasi.pdb
+C:\Users\ASUS\Downloads\DİyetistenEmre\DiyetisyenUygulamasi\obj\Debug\DiyetisyenUygulamasi.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\DİyetistenEmre\DiyetisyenUygulamasi\obj\Debug\DiyetisyenUygulamasi.Forms.AdminFrm.resources
+C:\Users\ASUS\Downloads\DİyetistenEmre\DiyetisyenUygulamasi\obj\Debug\DiyetisyenUygulamasi.GirisFrm.resources
+C:\Users\ASUS\Downloads\DİyetistenEmre\DiyetisyenUygulamasi\obj\Debug\DiyetisyenUygulamasi.Forms.HastalarFrm.resources
+C:\Users\ASUS\Downloads\DİyetistenEmre\DiyetisyenUygulamasi\obj\Debug\DiyetisyenUygulamasi.Properties.Resources.resources
+C:\Users\ASUS\Downloads\DİyetistenEmre\DiyetisyenUygulamasi\obj\Debug\DiyetisyenUygulamasi.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\DİyetistenEmre\DiyetisyenUygulamasi\obj\Debug\DiyetisyenUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\DİyetistenEmre\DiyetisyenUygulamasi\obj\Debug\DiyetisyenUygulamasi.exe
+C:\Users\ASUS\Downloads\DİyetistenEmre\DiyetisyenUygulamasi\obj\Debug\DiyetisyenUygulamasi.pdb
+C:\Users\Lenovo\source\repos\DiyetisyenUygulamasi2\bin\Debug\DiyetisyenUygulamasi.exe.config
+C:\Users\Lenovo\source\repos\DiyetisyenUygulamasi2\bin\Debug\DiyetisyenUygulamasi.exe
+C:\Users\Lenovo\source\repos\DiyetisyenUygulamasi2\bin\Debug\DiyetisyenUygulamasi.pdb
+C:\Users\Lenovo\source\repos\DiyetisyenUygulamasi2\obj\Debug\DiyetisyenUygulamasi.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\DiyetisyenUygulamasi2\obj\Debug\DiyetisyenUygulamasi.Forms.AdminFrm.resources
+C:\Users\Lenovo\source\repos\DiyetisyenUygulamasi2\obj\Debug\DiyetisyenUygulamasi.GirisFrm.resources
+C:\Users\Lenovo\source\repos\DiyetisyenUygulamasi2\obj\Debug\DiyetisyenUygulamasi.Forms.HastalarFrm.resources
+C:\Users\Lenovo\source\repos\DiyetisyenUygulamasi2\obj\Debug\DiyetisyenUygulamasi.Forms.RaporSecimFrm.resources
+C:\Users\Lenovo\source\repos\DiyetisyenUygulamasi2\obj\Debug\DiyetisyenUygulamasi.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\DiyetisyenUygulamasi2\obj\Debug\DiyetisyenUygulamasi.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\DiyetisyenUygulamasi2\obj\Debug\DiyetisyenUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DiyetisyenUygulamasi2\obj\Debug\DiyetisyenUygulamasi.exe
+C:\Users\Lenovo\source\repos\DiyetisyenUygulamasi2\obj\Debug\DiyetisyenUygulamasi.pdb
+C:\Users\emret\Desktop\ders\2. sınıf 2.dönem\yazılım mimarisi ve tasarımı\DiyetisyenUygulamasi(son)\bin\Debug\DiyetisyenUygulamasi.exe.config
+C:\Users\emret\Desktop\ders\2. sınıf 2.dönem\yazılım mimarisi ve tasarımı\DiyetisyenUygulamasi(son)\bin\Debug\DiyetisyenUygulamasi.exe
+C:\Users\emret\Desktop\ders\2. sınıf 2.dönem\yazılım mimarisi ve tasarımı\DiyetisyenUygulamasi(son)\bin\Debug\DiyetisyenUygulamasi.pdb
+C:\Users\emret\Desktop\ders\2. sınıf 2.dönem\yazılım mimarisi ve tasarımı\DiyetisyenUygulamasi(son)\obj\Debug\DiyetisyenUygulamasi.csprojAssemblyReference.cache
+C:\Users\emret\Desktop\ders\2. sınıf 2.dönem\yazılım mimarisi ve tasarımı\DiyetisyenUygulamasi(son)\obj\Debug\DiyetisyenUygulamasi.Forms.AdminFrm.resources
+C:\Users\emret\Desktop\ders\2. sınıf 2.dönem\yazılım mimarisi ve tasarımı\DiyetisyenUygulamasi(son)\obj\Debug\DiyetisyenUygulamasi.GirisFrm.resources
+C:\Users\emret\Desktop\ders\2. sınıf 2.dönem\yazılım mimarisi ve tasarımı\DiyetisyenUygulamasi(son)\obj\Debug\DiyetisyenUygulamasi.Forms.HastalarFrm.resources
+C:\Users\emret\Desktop\ders\2. sınıf 2.dönem\yazılım mimarisi ve tasarımı\DiyetisyenUygulamasi(son)\obj\Debug\DiyetisyenUygulamasi.Forms.RaporSecimFrm.resources
+C:\Users\emret\Desktop\ders\2. sınıf 2.dönem\yazılım mimarisi ve tasarımı\DiyetisyenUygulamasi(son)\obj\Debug\DiyetisyenUygulamasi.Properties.Resources.resources
+C:\Users\emret\Desktop\ders\2. sınıf 2.dönem\yazılım mimarisi ve tasarımı\DiyetisyenUygulamasi(son)\obj\Debug\DiyetisyenUygulamasi.csproj.GenerateResource.cache
+C:\Users\emret\Desktop\ders\2. sınıf 2.dönem\yazılım mimarisi ve tasarımı\DiyetisyenUygulamasi(son)\obj\Debug\DiyetisyenUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\emret\Desktop\ders\2. sınıf 2.dönem\yazılım mimarisi ve tasarımı\DiyetisyenUygulamasi(son)\obj\Debug\DiyetisyenUygulamasi.exe
+C:\Users\emret\Desktop\ders\2. sınıf 2.dönem\yazılım mimarisi ve tasarımı\DiyetisyenUygulamasi(son)\obj\Debug\DiyetisyenUygulamasi.pdb
+C:\Users\ASUS\Downloads\DiyetisyenUygulamasi(son)\DiyetisyenUygulamasi(son)\bin\Debug\DiyetisyenUygulamasi.exe.config
+C:\Users\ASUS\Downloads\DiyetisyenUygulamasi(son)\DiyetisyenUygulamasi(son)\bin\Debug\DiyetisyenUygulamasi.exe
+C:\Users\ASUS\Downloads\DiyetisyenUygulamasi(son)\DiyetisyenUygulamasi(son)\bin\Debug\DiyetisyenUygulamasi.pdb
+C:\Users\ASUS\Downloads\DiyetisyenUygulamasi(son)\DiyetisyenUygulamasi(son)\obj\Debug\DiyetisyenUygulamasi.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\DiyetisyenUygulamasi(son)\DiyetisyenUygulamasi(son)\obj\Debug\DiyetisyenUygulamasi.Forms.AdminFrm.resources
+C:\Users\ASUS\Downloads\DiyetisyenUygulamasi(son)\DiyetisyenUygulamasi(son)\obj\Debug\DiyetisyenUygulamasi.GirisFrm.resources
+C:\Users\ASUS\Downloads\DiyetisyenUygulamasi(son)\DiyetisyenUygulamasi(son)\obj\Debug\DiyetisyenUygulamasi.Forms.HastalarFrm.resources
+C:\Users\ASUS\Downloads\DiyetisyenUygulamasi(son)\DiyetisyenUygulamasi(son)\obj\Debug\DiyetisyenUygulamasi.Forms.RaporSecimFrm.resources
+C:\Users\ASUS\Downloads\DiyetisyenUygulamasi(son)\DiyetisyenUygulamasi(son)\obj\Debug\DiyetisyenUygulamasi.Properties.Resources.resources
+C:\Users\ASUS\Downloads\DiyetisyenUygulamasi(son)\DiyetisyenUygulamasi(son)\obj\Debug\DiyetisyenUygulamasi.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\DiyetisyenUygulamasi(son)\DiyetisyenUygulamasi(son)\obj\Debug\DiyetisyenUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\DiyetisyenUygulamasi(son)\DiyetisyenUygulamasi(son)\obj\Debug\DiyetisyenUygulamasi.exe
+C:\Users\ASUS\Downloads\DiyetisyenUygulamasi(son)\DiyetisyenUygulamasi(son)\obj\Debug\DiyetisyenUygulamasi.pdb
+C:\Users\ASUS\Downloads\DiyetisyenUygulamasison\DiyetisyenUygulamasi(son)\bin\Debug\DiyetisyenUygulamasi.exe.config
+C:\Users\ASUS\Downloads\DiyetisyenUygulamasison\DiyetisyenUygulamasi(son)\bin\Debug\DiyetisyenUygulamasi.exe
+C:\Users\ASUS\Downloads\DiyetisyenUygulamasison\DiyetisyenUygulamasi(son)\bin\Debug\DiyetisyenUygulamasi.pdb
+C:\Users\ASUS\Downloads\DiyetisyenUygulamasison\DiyetisyenUygulamasi(son)\obj\Debug\DiyetisyenUygulamasi.csprojAssemblyReference.cache
+C:\Users\ASUS\Downloads\DiyetisyenUygulamasison\DiyetisyenUygulamasi(son)\obj\Debug\DiyetisyenUygulamasi.Forms.AdminFrm.resources
+C:\Users\ASUS\Downloads\DiyetisyenUygulamasison\DiyetisyenUygulamasi(son)\obj\Debug\DiyetisyenUygulamasi.GirisFrm.resources
+C:\Users\ASUS\Downloads\DiyetisyenUygulamasison\DiyetisyenUygulamasi(son)\obj\Debug\DiyetisyenUygulamasi.Forms.HastalarFrm.resources
+C:\Users\ASUS\Downloads\DiyetisyenUygulamasison\DiyetisyenUygulamasi(son)\obj\Debug\DiyetisyenUygulamasi.Forms.RaporSecimFrm.resources
+C:\Users\ASUS\Downloads\DiyetisyenUygulamasison\DiyetisyenUygulamasi(son)\obj\Debug\DiyetisyenUygulamasi.Properties.Resources.resources
+C:\Users\ASUS\Downloads\DiyetisyenUygulamasison\DiyetisyenUygulamasi(son)\obj\Debug\DiyetisyenUygulamasi.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\DiyetisyenUygulamasison\DiyetisyenUygulamasi(son)\obj\Debug\DiyetisyenUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\DiyetisyenUygulamasison\DiyetisyenUygulamasi(son)\obj\Debug\DiyetisyenUygulamasi.exe
+C:\Users\ASUS\Downloads\DiyetisyenUygulamasison\DiyetisyenUygulamasi(son)\obj\Debug\DiyetisyenUygulamasi.pdb
